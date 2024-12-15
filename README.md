@@ -39,5 +39,4 @@ Dengan VibeMap Happy Puppy, pengguna dapat mengakses peta distribusi lokasi Happ
     
 ![image](https://github.com/user-attachments/assets/890be2f0-ec8c-443e-8f4f-06fe24b4fb59)
 
-### For iOS
 
