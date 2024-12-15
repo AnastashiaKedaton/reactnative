@@ -20,18 +20,23 @@ Dengan VibeMap Happy Puppy, pengguna dapat mengakses peta distribusi lokasi Happ
 ### Tampilan VibeMap Happy Puppy
 
 1. Halaman utama
+
 ![image](https://github.com/user-attachments/assets/5e703667-c9f6-4194-a4ad-3790ec9b316f)
 
-3. Peta
+2. Peta
+
 ![image](https://github.com/user-attachments/assets/b234ef33-ea31-4590-b9ef-749d293570df)
 
-4. Reservasi
+3. Reservasi
+
 ![image](https://github.com/user-attachments/assets/5d20886e-6651-42e2-bad0-ee3b85ebbebd)
 
-5. Data Reservasi
+4. Data Reservasi
+   
 ![image](https://github.com/user-attachments/assets/0f6494f7-df07-4783-8f77-37995411336f)
 
-6. Edit Data Reservasi
+5. Edit Data Reservasi
+    
 ![image](https://github.com/user-attachments/assets/890be2f0-ec8c-443e-8f4f-06fe24b4fb59)
 
 ### For iOS
