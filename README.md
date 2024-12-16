@@ -2,7 +2,7 @@ This is a new [**React Native**](https://reactnative.dev) project, bootstrapped 
 
 # VibeMap Happy Puppy
 
->**Note**: VibeMap Happy Puppy adalah aplikasi karaoke yang menggabungkan keseruan bernyanyi dengan kenyamanan mencari tempat karaoke terbaik di Jakarta. Aplikasi ini memungkinkan pengguna untuk dengan mudah menemukan lokasi Happy Puppy Karaoke di seluruh kota, dan juga menyediakan fitur pemesanan untuk mengamankan tempat karaoke dengan mudah.
+VibeMap Happy Puppy adalah aplikasi karaoke yang menggabungkan keseruan bernyanyi dengan kenyamanan mencari tempat karaoke terbaik di Jakarta. Aplikasi ini memungkinkan pengguna untuk dengan mudah menemukan lokasi Happy Puppy Karaoke di seluruh kota, dan juga menyediakan fitur pemesanan untuk mengamankan tempat karaoke dengan mudah.
 
 Dengan VibeMap Happy Puppy, pengguna dapat mengakses peta distribusi lokasi Happy Puppy, yang menampilkan semua tempat karaoke yang tersedia di Jakarta. Aplikasi ini juga menyediakan fitur pemesanan yang lancar untuk membantu pengguna memesan ruang karaoke pada waktu dan lokasi yang diinginkan, memastikan pengalaman karaoke yang menyenangkan bersama teman, keluarga, atau rekan kerja.
 
@@ -14,8 +14,7 @@ Dengan VibeMap Happy Puppy, pengguna dapat mengakses peta distribusi lokasi Happ
 
 1. Leaflet
 2. Reactnative
-3. Ionic
-4. FontAwesome
+3. FontAwesome
 
 ### Tampilan VibeMap Happy Puppy
 
